@@ -1,0 +1,14 @@
+{
+  "name": "weather",
+  "version": "0.0.0",
+  "description": "Weather",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AgileInstitute/Weather"
+  },
+  "author": "Your Name",
+  "devDependencies": {
+    "grunt": "^0.4.4",
+    "grunt-contrib-jasmine": "^0.6.3"
+  }
+}
